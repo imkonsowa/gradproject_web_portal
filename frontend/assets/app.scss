@@ -1,0 +1,110 @@
+@import '../../node_modules/material-design-icons-iconfont/dist/material-design-icons.css';
+
+
+
+/* datatables css*/
+.dataTables_filter {
+    display: inline-block;
+    padding-bottom: 20px;
+    float: right;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.dataTables_filter input {
+    font-size:14px;
+    margin-left: 5px;
+    display:inline-block;
+    border:none;
+    border-bottom:1px solid #757575;
+}
+
+.dataTables_filter input:focus {
+    outline: none;
+}
+
+.dataTables_length {
+    display: inline-block;
+    padding-bottom: 20px;
+    float: left;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.dataTables_length select {
+    font-size:14px;
+    margin-left: 5px;
+    display:inline-block;
+    border:none;
+    border-bottom:1px solid #757575;
+}
+
+.dataTables_length select:focus {
+    outline: none;
+}
+
+
+/*.glyphicon::before {
+    background: none;
+}*/
+
+.dataTables_info {
+    display: inline-block;
+    float: left;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+.dataTables_paginate {
+    display: inline-block;
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+.dataTables_paginate a {
+    float: left;
+    padding: 0 10px;
+    margin: 2px;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 3px;
+}
+
+.dataTables_paginate a.current {
+    background-color: #1A4B79;
+    color: #fff;
+}
+
+
+.dataTables_paginate .paginate_button {
+    cursor: pointer;
+}
+
+.dataTables_paginate .paginate_button:hover {
+    background-color: #1A4B79;
+    color: #fff;
+}
+
+.dataTables_empty {
+    text-align: center;
+}
+
+thead input, thead select {
+    width: 100%;
+}
+
+.custom-checkboxes-margin {
+    .v-input__control {
+        margin-bottom: 0;
+    }
+}
+
+.v-data-table table {
+    width: 100% !important;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_6c2d1b07"
+  },
+  {
+    "name": "admin-admin_dashboard_page",
+    "path": "/admin/admin_dashboard_page",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\admin\\\\admin_dashboard_page.vue",
+    "chunkName": "pages/admin/admin_dashboard_page",
+    "_name": "_357103f4"
+  },
+  {
+    "name": "admin-admin_employees_page",
+    "path": "/admin/admin_employees_page",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\admin\\\\admin_employees_page.vue",
+    "chunkName": "pages/admin/admin_employees_page",
+    "_name": "_453f0f96"
+  },
+  {
+    "name": "admin-admin_security_cameras_page",
+    "path": "/admin/admin_security_cameras_page",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\admin\\\\admin_security_cameras_page.vue",
+    "chunkName": "pages/admin/admin_security_cameras_page",
+    "_name": "_22cc2a63"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_671c5924"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3a95b63f"
+  },
+  {
+    "path": "/login",
+    "name": "login",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\auth\\\\login.vue",
+    "_name": "_671c5924"
+  },
+  {
+    "path": "/admin/employees",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\admin\\\\admin_employees_page.vue",
+    "name": "admin.employees",
+    "_name": "_453f0f96"
+  },
+  {
+    "path": "/admin/security-cameras",
+    "component": "I:\\\\xampp\\\\htdocs\\\\gradproject\\\\frontend\\\\pages\\\\admin\\\\admin_security_cameras_page.vue",
+    "name": "admin.security.cameras",
+    "_name": "_22cc2a63"
+  }
+]
